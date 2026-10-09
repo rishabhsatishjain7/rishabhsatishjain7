@@ -1,7 +1,7 @@
 👋 Hi, I'm @rishabhsatishjain7
  
-- 👀 I'm interested in **quantitative trading, data engineering, and applied machine learning** — I like building systems that turn messy, real-world data into something you can actually trust and act on.
-- 💞️ I'm looking to collaborate on **open-source projects in quantitative finance, reinforcement learning, and data pipelines** — especially anything involving backtesting frameworks, financial data reconciliation, or RL applied to markets.
+- I'm interested in **quantitative trading, data engineering, and applied machine learning** — I like building systems that turn messy, real-world data into something you can actually trust and act on.
+- I'm looking to collaborate on **open-source projects in quantitative finance, reinforcement learning, and data pipelines** — especially anything involving backtesting frameworks, financial data reconciliation, or RL applied to markets.
 - 📫 How to reach me: **rishisjain0205@gmail.com** or [LinkedIn](https://www.linkedin.com/in/rishabh-satish-jain-94113b267)
 
 **A couple of things I've built:**
