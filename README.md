@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Satish Jain
 
-Recent graduate with a B.Tech in Information Technology from **Vellore Institute of Technology** (May 2026). I build backend systems and data pipelines that turn messy, real-world data into something you can trust and act on, with a focus on concurrency-safe services, event-driven architecture, and applied machine learning.
+Recent graduate with a B.Tech in Information Technology from **Vellore Institute of Technology** (July 2026). I build backend systems and data pipelines that turn messy, real-world data into something you can trust and act on, with a focus on concurrency-safe services, event-driven architecture, and applied machine learning.
 
 **Tech:** Java · Python · SQL · Spring Boot · FastAPI · Redis · Kafka · Docker · Kubernetes (k3s) · Terraform · AWS · GitHub Actions · Airflow · XGBoost · SHAP
 
